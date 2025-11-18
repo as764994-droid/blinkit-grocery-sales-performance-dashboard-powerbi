@@ -18,7 +18,7 @@ It helps decision-makers optimize inventory, marketing strategy, and outlet oper
 
 ## 📂 Dataset Description
 
-**Source:** BlinkIT Grocery Data (Excel/CSV) https://github.com/as764994-droid/blinkit-grocery-sales-performance-dashboard-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx  
+**Source:** BlinkIT Grocery Data (Excel/CSV) (https://github.com/as764994-droid/blinkit-grocery-sales-performance-dashboard-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx) 
 **Rows:** ~8,523  
 **Model Type:** Single Fact Table  
 
@@ -103,7 +103,7 @@ It helps decision-makers optimize inventory, marketing strategy, and outlet oper
 
 ## 📥 Installation / How to Use
 1. Download all repository files  
-2. Open `BLINKIT.pbix` in **Power BI Desktop**  
+2. Open `BLINKIT.pbix` (https://github.com/as764994-droid/blinkit-grocery-sales-performance-dashboard-powerbi/blob/main/BLINKIT.pbix) in **Power BI Desktop**  
 3. If file path changes:  
    Go to **Home → Transform Data → Data Source Settings**  
 4. Refresh to view updated insights  
@@ -118,6 +118,6 @@ It serves as a strategic tool for improving inventory planning, marketing, and o
 
 ## 📩 Contact
 **Ayush Singh**  
-(Add your GitHub profile link here)
+((https://github.com/as764994-droid))
 
 ---
