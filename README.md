@@ -18,7 +18,7 @@ It helps decision-makers optimize inventory, marketing strategy, and outlet oper
 
 ## 📂 Dataset Description
 
-**Source:** BlinkIT Grocery Data (Excel/CSV)  
+**Source:** BlinkIT Grocery Data (Excel/CSV) https://github.com/as764994-droid/blinkit-grocery-sales-performance-dashboard-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx  
 **Rows:** ~8,523  
 **Model Type:** Single Fact Table  
 
